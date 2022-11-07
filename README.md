@@ -1,5 +1,6 @@
 # intellij-test-highlighting-examples
 
+## HighlightingTest.java
 Companion to https://youtrack.jetbrains.com/issue/IDEA-302223
 
 Contains a series of simple unit tests that showcase the inconsistent highlighting in IntelliJ IDEA 2022.2.1 when running a test with failures:
